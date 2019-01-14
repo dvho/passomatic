@@ -1,5 +1,5 @@
 # Passomatic
-Passomatic is a lightweight password generation module that takes one argument, a number from 1-10 as an indication of password strength. Effortlessly generate placeholder passwords upon account creation, integrate behind a UI with a dial or slider, and enjoy the ease at which passomatic generates passwords of all strengths according to the most standard password conventions.
+_Passomatic_ is a lightweight password generation module that takes one argument, a number from 1-10 as an indication of password strength. Effortlessly generate placeholder passwords upon account creation, integrate behind a UI with a dial or slider, and enjoy the ease at which _Passomatic_ generates passwords of all strengths according to the most standard password conventions.
 
 <img src="https://user-images.githubusercontent.com/45696445/51094765-ba921f00-177d-11e9-8a13-7ad842840cab.gif">
 
