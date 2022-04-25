@@ -1,5 +1,5 @@
 # Passomatic
-_Passomatic_ is a lightweight password generation module that takes one argument, a number from 1-10 as an indication of password strength. Effortlessly generate placeholder passwords upon account creation, integrate behind a UI with a dial or slider, and enjoy the ease at which _Passomatic_ generates passwords of all strengths according to the most standard password conventions.
+[_Passomatic_](https://www.npmjs.com/package/passomatic) is a lightweight password generation module that takes one argument, a number from 1-10 as an indication of password strength. Effortlessly generate placeholder passwords upon account creation, integrate behind a UI with a dial or slider, and enjoy the ease at which [_Passomatic_](https://www.npmjs.com/package/passomatic) generates passwords of all strengths according to the most standard password conventions.
 
 <img src="https://user-images.githubusercontent.com/45696445/51099493-14efa780-179f-11e9-94d9-97c4be6d7428.gif">
 
@@ -129,6 +129,8 @@ console.log(passomatic(10));
 ```
 _________________________
 &nbsp;
+## Notes
+[_Passomatic_](https://www.npmjs.com/package/passomatic) is a lightweight password generation module that takes one argument, a number from 1-10 as an indication of password strength. Effortlessly generate placeholder passwords upon account creation, integrate behind a UI with a dial or slider, and enjoy the ease at which [_Passomatic_](https://www.npmjs.com/package/passomatic) generates passwords of all strengths according to the most standard password conventions.
 
 ## Installation
 With [npm](http://npmjs.org) do
