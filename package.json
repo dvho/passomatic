@@ -1,11 +1,17 @@
 {
     "name": "passomatic",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Passomatic is a lightweight password generation module that takes one argument, a number from 1-10 as an indication of password strength. Effortlessly generate placeholder passwords upon account creation, integrate behind a UI with a dial or slider, and enjoy the ease at which passomatic generates passwords of all strengths according to the most standard password conventions.",
     "main": "passomatic.js",
+    "files": [
+        "package.json",
+        "passomatic.js",
+        "passomatic.test.js",
+        "readme.md"
+    ],
     "scripts": {
         "test": "node passomatic.test.js",
-        "prepublish": "npm test"
+        "prepublishOnly": "npm test"
     },
     "keywords": [
         "password",
@@ -37,6 +43,6 @@
         "weak",
         "strong"
     ],
-    "author": "",
+    "author": "David H.",
     "license": "MIT"
 }
